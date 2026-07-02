@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.pyo
+.git/
+.gitignore
+*.csv
+generate_dataset.py
+training.py
+dataset.csv
+.env
+*.md

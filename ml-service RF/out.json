@@ -1,0 +1,26 @@
+﻿{
+  "input": {
+    "DOC": 30,
+    "populasi": 2000,
+    "bobot_awal_per_ekor_gr": 15.0,
+    "pakan_harian_gr": 1500.0,
+    "panjang_periode_hari": 10
+  },
+  "metrics": {
+    "ADG_gr_per_ekor_hari": 0.94,
+    "FCR": 0.8,
+    "status_efisiensi": "Efisien"
+  },
+  "predictions": {
+    "delta_bobot_per_ekor_gr": 9.39,
+    "bobot_akhir_per_ekor_gr": 24.39,
+    "biomassa_awal_kg": 30.0,
+    "biomassa_akhir_kg": 48.78
+  },
+  "recommendations": {
+    "rasio_pakan_next_persen": 5,
+    "pakan_harian_next_gr": 2439,
+    "catatan_rasio": "Rasio stabil fase pertumbuhan utama",
+    "aksi": "Pakan optimal, pertahankan rasio"
+  }
+}
